@@ -1,0 +1,2 @@
+Void Linux packages included in this repo retain their upstream licenses.
+Refer to each package’s documentation for exact license terms.
